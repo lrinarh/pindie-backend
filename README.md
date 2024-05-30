@@ -1,5 +1,5 @@
-Ссылка на репозиторий с фронтендом: https://github.com/LexaNovikov/Frontend.git
+Ссылка на репозиторий с фронтендом: https://github.com/lrinarh/pindie-frontend.git
 
-Ссылка на домен фронтенда: https://shedevropindiefrontend.nomoredomainswork.ru/
+Ссылка на домен фронтенда: https://front-ira.nomorepartiesco.ru
 
-IP-адрес: 158.160.148.159
+IP-адрес: 158.160.167.160
